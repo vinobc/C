@@ -1,2 +1,1 @@
-# C
-Programming and Problem Solving Using C
+# Programming and Problem Solving Using C
